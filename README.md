@@ -6,7 +6,6 @@ This project was created to practise DOM manipulation, event handling, and dynam
 
 ## ✨ Features  
 - Multiple‑choice questions  
-- Randomised answer order on every load  
 - Score tracking  
 - Required answer selection (no skipping questions)  
 - Clean final results screen  
@@ -21,7 +20,6 @@ This project helped me strengthen core front‑end skills:
 
 - Updating the DOM dynamically  
 - Handling user input with radio buttons  
-- Shuffling arrays using the Fisher–Yates algorithm  
 - Validating user actions (forcing answer selection)  
 - Replacing HTML content with JavaScript (`innerHTML`)  
 - Structuring reusable functions  
@@ -44,10 +42,9 @@ You can view the live version here:
 
 ## 📦 How It Works  
 1. Questions are stored in a JavaScript array.  
-2. Each time a question loads, the answer options are shuffled.  
-3. The user must select an answer before moving on.  
-4. The app checks correctness and updates the score.  
-5. At the end, the quiz displays a final score and a restart button.
+2. The user must select an answer before moving on.  
+3. The app checks correctness and updates the score.  
+4. At the end, the quiz displays a final score and a restart button.
 
 ---
 
