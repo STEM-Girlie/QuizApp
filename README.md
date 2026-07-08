@@ -52,10 +52,10 @@ You can view the live version here:
 ---
 
 ## 📸 Preview  
-*(Add a screenshot here later if you want — GitHub will display it nicely.)*
-<img width="1277" height="1011" alt="quiz questions" src="https://github.com/user-attachments/assets/34d7098f-5cb8-4460-bcb2-f1cc096e1ae3" width="50%" />
-<img width="928" height="756" alt="quiz end" src="https://github.com/user-attachments/assets/57cf12ca-4272-4141-9115-d58482f5c3b3" width="50%" />
-<img width="1152" height="992" alt="quiz-alert" src="https://github.com/user-attachments/assets/e7293cd8-a755-423d-a292-bf4f4a2cb4e6" width="50%" />
+<img src="assets/quiz-alert.png" width="50%">
+<img src="assets/quiz-end.png" width="50%">
+<img src="assets/quiz-questions.png" width="50%">
+
 
 ---
 
@@ -64,7 +64,8 @@ You can view the live version here:
 - Add a timer  
 - Add categories or difficulty levels  
 - Add animations for transitions  
-- Store high scores in localStorage  
+- Store high scores in localStorage
+- Shuffle answers to questions after refresh 
 
 ---
 
@@ -72,12 +73,3 @@ You can view the live version here:
 This project is part of my ongoing front‑end practice — building small, functional apps to strengthen my JavaScript fundamentals and UI design skills.
 
 ---
-
-If you want, I can help you add:
-
-- a screenshot section  
-- badges (e.g., “Made with JavaScript”)  
-- a cleaner project structure  
-- a “Contributing” or “License” section  
-
-Just tell me what you want next.
